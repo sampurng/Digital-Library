@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="generator" content="CoffeeCup HTML Editor (www.coffeecup.com)">
+    <meta name="dcterms.created" content="Mon, 27 Aug 2018 11:21:36 GMT">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <title></title>
+    
+    <!--[if IE]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+	<script>
+			function search()
+			{
+			 var to_search = document.getElementById("myText").value;
+			 var loc = "database_real.html" + "#" + to_search;
+			 window.location.href = loc; 
+			 
+			}
+	</script>
+  </head>
+  <body>
+  		<form name="Search_Form" method="GET" action="database_real.html">
+			  <input type="text" id="myText">
+    	
+			  <input type="button" value="Search" onClick="search()">
+			  
+		</form>
+  </body>
+</html>

@@ -1,0 +1,102 @@
+<html>
+	<head>
+		<title>Bal Bharati Public School GRHM: Digital Library</title>
+		<link rel="Shortcut Icon" type="image/x-icon" href="resources/favicon.ico" />
+		<link rel="stylesheet" type="text/css" href="style.css" />
+	</head>
+    <body>
+		<div id="container">
+			<div id="header">
+				<a href="index.html"><img src="resources/logo.png" style="width:200px; height:200px; vertical-align:middle">
+				Bal Bharati Public School GRHM: Digital Library<br/>
+                
+    <input type = "text" name "Search" placeholder "Search.." value = " " size= "50" style = "border: medium, none; padding = 0px; margin = 0px; 
+    height: 4.5%;  "></a>
+			</div>
+	<div id="content">
+	<div id="navigation">
+					<ul>
+						<li><a class="selected" href="index.html">HOME</a></li>
+						<li><a href="schoolbooks.html">SCHOOL BOOKS</a></li>
+						<li><a href="samplepapers.html">SAMPLE PAPERS</a></li>
+						<li><a href="fiction.html">FICTION</a></li>
+						<li><a href="nonfiction.html">NON FICTION</a></li>
+						<li><a href="prizewinning.html">PRIZE WINNING</a></li>
+						<li><a href="emagazines.html">E-MAGAZINES</a></li>
+						<li><a href="student_portal.html">STUDENT PORTAL</a></li>
+					</ul>
+				</div>
+				<div id="main">
+					<div class="css-slideshow">
+						<figure>
+							<img src="resources/slideshow/Slideshow (1).jpg" class="slideshowImage"/>
+							<figcaption><strong>Senior Library</strong>, GRHM</figcaption> 
+						</figure>
+
+						<figure>
+							<img src="resources/slideshow/Slideshow (2).jpg" class="slideshowImage"/>
+							<figcaption><strong>Senior Library</strong>, GRHM</figcaption> 
+						</figure>
+
+						<figure>
+							<img src="resources/slideshow/Slideshow (3).jpg" class="slideshowImage"/>
+							<figcaption><strong>Senior Library</strong>, GRHM</figcaption> 
+						</figure>
+
+						<figure>
+							<img src="resources/slideshow/Slideshow (4).jpg" class="slideshowImage"/>
+							<figcaption><strong>Senior Library</strong>, GRHM</figcaption>
+						</figure>
+
+						<figure>
+							<img src="resources/slideshow/Slideshow (5).jpg" class="slideshowImage"/>
+							<figcaption><strong>The Peabody Library</strong>, </figcaption>
+						</figure>
+
+						<figure>
+							<img src="resources/slideshow/Slideshow (6).jpg" class="slideshowImage"/>
+							<figcaption><strong>Admont Library</strong>, </figcaption>
+						</figure>
+
+						<figure>
+							<img src="resources/slideshow/Slideshow (7).jpg" class="slideshowImage"/>
+							<figcaption><strong>Alternberg Abbey</strong>, </figcaption>
+						</figure>
+
+						<figure>
+							<img src="resources/slideshow/Slideshow (8).jpg" class="slideshowImage"/>
+							<figcaption><strong>Bibliotheque Sainte</strong>, </figcaption>
+						</figure>
+
+						<figure>
+							<img src="resources/slideshow/Slideshow (9).jpg" class="slideshowImage"/>
+							<figcaption><strong>Bibliothique</strong>, </figcaption>
+						</figure>
+
+						<figure>
+							<img src="resources/slideshow/Slideshow (10).jpg" class="slideshowImage"/>
+							<figcaption><strong>Mafra</strong>, </figcaption>
+						</figure>
+					</div>
+					<br>
+					Visit our <a href="http://www.bbpsgr.edu.in/">School Website</a>.<br><br>
+					
+
+
+					<img src="http://hitwebcounter.com/counter/counter.php?page=6475857&style=0025&nbdigits=5&type=page&initCount=0" title="website counter" Alt="website counter"   border="0" >
+					</a><br/>
+                                        <a title="Web Tracker" target="_blank" style="font-family:Roboto Condensed, Arial, Helvetica, sans-serif; font-size: 10px; color: #736C65; text-decoration: none ;">
+                                        </a>
+
+                                        
+
+				</div>
+			</div>
+			<div id="footer">
+				Made by R. Madhavan, Nedheesh, Sampurna, Abhinav, Aniruddh and Debhanshu. 
+			</div>
+		</div> 
+			</div>
+		</div>
+	</body>
+</html>
